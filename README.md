@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-<img width="2880" height="1620" alt="VirtualBox interface" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Virtualbox_logo.png/240px-Virtualbox_logo.png" />
+<img width="2880" height="1620" alt="VirtualBox interface" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Adobe_After_Effects_screenshot.png/1280px-Adobe_After_Effects_screenshot.png" />
 </div>
 
 ---
